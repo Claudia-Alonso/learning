@@ -11,3 +11,6 @@ cmd+, brings you to settings
 Tick the 'execute in file dir' box in settings
 
 Debugging link -> https://code.visualstudio.com/docs/python/debugging 
+
+
+Test test test
