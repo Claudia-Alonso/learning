@@ -1,0 +1,13 @@
+Python3 --version [to get the version number on Mac]
+
+cd Documents_real/Programming/Python/LinkedIn_Learning/Exercise_Files
+
+Python3 helloworld_finished.py [to run the file]
+
+Visual Studio Code:
+
+cmd+, brings you to settings
+
+Tick the 'execute in file dir' box in settings
+
+Debugging link -> https://code.visualstudio.com/docs/python/debugging 
