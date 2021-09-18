@@ -20,3 +20,6 @@ Debugging link -> https://code.visualstudio.com/docs/python/debugging
 # Everyday Terminal Commands To Know
 
 Python3 helloworld_finished.py [to run the file]
+
+# VS Code Commands to know
+ - `cmd + shift + p`to get the command palete
