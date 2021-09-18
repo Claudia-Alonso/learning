@@ -1,5 +1,4 @@
 # cmd + shift + p for command palete in VS Code
-# Example file for HelloWorld
 #
 # For internalConsole in launch.json
 def main():
