@@ -1,7 +1,7 @@
 # Set Up
 - Python3 --version [to get the version number on Mac]
 
-- If you type `python -v` on the mac terminal, you won't actually be doing the same as if you'd typed `python --version`. Instead you'll go into python *Interpretive mode*. In this mode, ypu can type some python code and it'll come back straight away. The application doesn't need to be compiled before it is run.
+- If you type `python -v` on the mac terminal, you won't actually be doing the same as if you'd typed `python --version`. Instead you'll go into python *Interpretive mode*. In this mode, ypu can type some python code and it'll come back straight away. The application doesn't need to be compiled before it is run. Type `exit()` to leave the mode
 
 ~~If you do python -v you're going to do python2 stuff and to get out of there you'll need to type quit() or help() if you want to do some investigating.
 I changed the .zprofile so that Python3 --version and Python --version work the same. Just for future, specify the Python3 part if running file from
