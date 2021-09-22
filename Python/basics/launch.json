@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "internalConsole", // integratedTerminal was orignally here. 
+            // Interalconsole doesn't taken user input. It outputs to the Debug console
+            "cwd": "${fileDirname}", //current working directory, set cwd to current file
+            "stopOnEntry": true, //Tells deugger to auto pause once it starts even if no break points
+            
+        }
+    ]
+}
